@@ -1,13 +1,13 @@
 //
-//  baseMatrixClass.h
-//  matrix-calculator
+//  D_Base_Matrix.h
+//  D_Base_Matrix
 //
 //  Created by Liam on 13/09/2016.
 //  Copyright © 2016 Liam. All rights reserved.
 //
 
-#ifndef baseMatrixClass_h
-#define baseMatrixClass_h
+#ifndef D_Base_Matrix_h
+#define D_Base_Matrix_h
 
 
 #include <iostream>
@@ -202,4 +202,4 @@ D_Base_Matrix<T> operator-
 }
 
 
-#endif /* baseMatrixClass_h */
+#endif /* D_Base_Matrix_h */
