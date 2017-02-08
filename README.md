@@ -1,5 +1,5 @@
 # MatrixClass
-This is a basic templated matrix class completed contain one header file.
+This is a basic templated matrix class contain one header file.
 
 ## Current functionality:
 - Default initialize with zero matrix.
